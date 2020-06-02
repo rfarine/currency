@@ -1,3 +1,11 @@
+.DS_Store
+node_modules
+public/bundle.*
+.env
+.env.build
+*.un
+*.un~
+
 # Logs
 logs
 *.log
